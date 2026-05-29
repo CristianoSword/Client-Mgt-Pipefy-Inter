@@ -1,7 +1,10 @@
 __pycache__/
 .pytest_cache/
+/release
+/debug
 .venv/
 *.pyc
 *.db
 .env
+.bin
 
